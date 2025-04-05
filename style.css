@@ -1,0 +1,83 @@
+*{ margin: 0;
+box-sizing: border-box;}
+table{
+    height: 100%;
+    width: 100%;
+}
+td{
+    height: 70px;
+    width: 300px;
+}
+tr{
+    height: 70px;
+    width: 160px;
+}
+
+.fundo1{
+    background-color: rgb(158, 166, 127);
+}
+.fundo2{
+    background-color: rgb(182, 192, 184);
+}
+.fundo3{
+    background-color: rgb(78, 84, 38);
+}
+.logo{
+    width: 5%;
+    background-color: rgb(158, 166, 127);
+}
+
+.titulo{
+    font-size: 45px;
+    text-align: center;
+    background-color: rgb(158, 166, 127);
+    color: aliceblue;
+}
+.titulo2{
+    font-size: 35px;
+    text-align: center;
+    background-color: rgb(78, 84, 38);
+    color: aliceblue;
+}
+.titulo3{
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(78, 84, 38);
+    color: aliceblue;
+}
+.titulo4{
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(78, 84, 38);
+    color: aliceblue;
+}
+.titulo5{
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(182, 192, 184);
+    color: rgb(78, 84, 38);
+}
+.titulo6{
+    font-size: 35px;
+    text-align: center;
+    background-color: rgb(182, 192, 184);
+    color: rgb(78, 84, 38);
+}
+
+.button { text-decoration: none;
+color: rgb(182, 192, 184);
+padding: 10px 10px 10px 10px;
+background-color: rgb(78, 84, 38);
+border: solid 1px rgb(182, 192, 184);
+border-radius: 10px;}
+.button:hover { color: rgb(78, 84, 38);
+background-color: rgb(182, 192, 184);
+border: solid 1px rgb(78, 84, 38);}
+
+input{
+    border-radius: 10px;
+    width: 250px;
+}
+h2{
+    color: aliceblue;
+}
